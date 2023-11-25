@@ -57,7 +57,7 @@
 # elif user == 2 and computer == 2:
 #     print(draw)
 
-# 2nd version. to use 2nd version lock the 1st version and unlock the 2nd.
+# 2nd version. to use 1st version lock the 2nd version and unlock the 2nd.
 # otherwise two versions will run at the same time
 import random
 while True:
