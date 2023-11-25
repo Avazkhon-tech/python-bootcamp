@@ -5,23 +5,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="092456bf-d772-4530-b201-7b43d4df19c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Projects/project_day_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_exercises/day_4/ex_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_exercises/day_4/ex_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_exercises/day_4/ex_15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/Lesson_4/lists_4_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/Lesson_4/random_4_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/project_day_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2YfgfoFbOxXyvxSabN6yO4zMnJk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
 }]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="092456bf-d772-4530-b201-7b43d4df19c5" name="Changes" comment="" />
+      <created>1700922161673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700922161673</updated>
+    </task>
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
