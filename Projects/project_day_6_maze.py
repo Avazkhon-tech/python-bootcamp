@@ -1,4 +1,4 @@
-# game. reeborg's world 
+# game. reeborg's world
 def turn_right():
     turn_left()
     turn_left()
