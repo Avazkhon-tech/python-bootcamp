@@ -15,4 +15,4 @@ def format_name(f_name, l_name):
 
 print(format_name(input("What is your name: "), input("What is your surname: ")))
 
-format_name()
+
