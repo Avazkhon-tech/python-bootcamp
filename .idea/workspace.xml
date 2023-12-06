@@ -5,26 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="092456bf-d772-4530-b201-7b43d4df19c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Daily_exercises/day_13/ex_25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Daily_exercises/day_13/ex_26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Daily_exercises/day_13/ex_27.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/day_13_higher_or_lower/art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/day_13_higher_or_lower/game_data.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/project_day_10_calculator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/project_day_10_calculator_logo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/project_day_11_blackjack_game.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/project_day_12_guessing_game.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/project_day_1_name_generator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/project_day_2_bill_calculator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/project_day_3_treasure_hunter.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/project_day_4_rock_paper_scissors_game.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/project_day_5_password_generator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/project_day_6_maze.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/project_day_8_encrypiton_art.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/project_day_8_encryption.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/project_day_9_blind_auction_art.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/project_day_9_blind_auction_main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/day_13_higher_or_lower/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/day_13_higher_or_lower/art.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/day_13_higher_or_lower/game_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/day_13_higher_or_lower/game_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/day_13_higher_or_lower/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/day_13_higher_or_lower/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
