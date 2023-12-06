@@ -1,7 +1,7 @@
 
 import os
-from Projects import project_day_9_blind_auction_art
-from project_day_9_blind_auction_art import logo
+import art
+from art import logo
 
 def clear_terminal():
     # Print 100 empty lines to simulate clearing the console
@@ -11,7 +11,7 @@ def clear_terminal():
 print("This is some output.")
 
 # Call the function to clear the terminal
-print(project_day_9_blind_auction_art.logo)
+print(logo)
 print("Welcome to the secret auction program.")
 bidders = {}
 should_continue = True

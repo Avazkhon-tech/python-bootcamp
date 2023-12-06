@@ -1,4 +1,4 @@
-from project_day_10_calculator_logo import logo
+from art import logo
 def add(n1, n2):
     return n1 + n2
 

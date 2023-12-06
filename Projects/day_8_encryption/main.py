@@ -1,4 +1,4 @@
-import project_day_8_encrypiton_art
+import art
 
 alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
 
@@ -16,7 +16,7 @@ def ceaser (text_input, shift_amount, cipher_direction):
             end_text += letter
     print(f"Here is the {cipher_direction}d result: {end_text}")
 
-print(project_day_8_encrypiton_art.logo)
+print(art.logo)
 
 flag = True
 while flag:
