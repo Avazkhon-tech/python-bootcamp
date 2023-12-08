@@ -42,4 +42,3 @@ while should_continue:
     else:
         if check_resource(drink_type):
             money += process_coins(drink_type)
-  
