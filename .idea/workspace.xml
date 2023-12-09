@@ -5,10 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="092456bf-d772-4530-b201-7b43d4df19c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lessons/lesson_17_OOP/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python-bootcamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-bootcamp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_exercises/day_18_turtle_graphics/challenge_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_exercises/day_18_turtle_graphics/challenge_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_exercises/day_18_turtle_graphics/challenge_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_exercises/day_18_turtle_graphics/challenge_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_exercises/day_18_turtle_graphics/challenge_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/Lesson_18_graphics/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/day_18_the_hirst_painting/image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/day_18_the_hirst_painting/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/lesson_17_OOP/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson_17_OOP/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/day_17_quiz/quiz_brain.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/day_17_quiz/quiz_brain.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,34 +42,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.lesson_16_1.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.question_model.executor": "Run",
-    "Python.quiz_brain.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "V:/University/Computer science",
-    "run.code.analysis.last.selected.profile": "aDefault",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.challenge_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.challenge_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.challenge_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.challenge_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.challenge_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_16_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question_model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.quiz_brain.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;V:/University/Computer science&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="V:\Extra lessons(programming)\Python\python-bootcamp\Projects\day_18_the_hirst_painting" />
       <recent name="V:\Extra lessons(programming)\Python\python-bootcamp\Projects\day_17_quiz" />
       <recent name="V:\Extra lessons(programming)\Python\python-bootcamp\Projects\day_14_coffee_machine" />
       <recent name="V:\Extra lessons(programming)\Python\python-bootcamp\Daily_exercises\day_9" />
       <recent name="V:\Extra lessons(programming)\Python\python-bootcamp\Daily_exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-bootcamp" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Projects/day_17_quiz" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -82,6 +98,9 @@
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Projects/day_17_quiz" />
       <option name="IS_MODULE_SDK" value="true" />
