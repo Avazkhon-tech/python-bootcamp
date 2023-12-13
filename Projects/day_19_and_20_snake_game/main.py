@@ -1,5 +1,5 @@
-from snake1 import Snake
-from turtle import Screen, Turtle
+from snake import Snake
+from turtle import Screen
 import time
 
 
@@ -10,7 +10,9 @@ screen.title('My snake Game')
 screen.tracer(0)
 
 snake = Snake()
-screen.onkey(snake.up, 'Up')
+
+screen.listen()
+screen.onkey(snake.up, "Up")
 screen.onkey(snake.down, 'Down')
 screen.onkey(snake.left, 'Left')
 screen.onkey(snake.right, 'Right')
