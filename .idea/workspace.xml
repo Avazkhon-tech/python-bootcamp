@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="092456bf-d772-4530-b201-7b43d4df19c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Projects/day_24_snake_game_improved/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/Lesson_025/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/Lesson_025/new_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/Lesson_025/squirrel_count.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/Lesson_025/squirrel_count_short.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/Lesson_025/weather_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/day_25_us_states_game/50_states.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/day_25_us_states_game/blank_states_img.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/day_25_us_states_game/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/day_24_snake_game_improved/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/day_24_snake_game_improved/scoreboard.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,35 +40,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.ball.executor&quot;: &quot;Run&quot;,
-    &quot;Python.challenge_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.challenge_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.challenge_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.challenge_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.challenge_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.food.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_16_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.player.executor&quot;: &quot;Run&quot;,
-    &quot;Python.question_model.executor&quot;: &quot;Run&quot;,
-    &quot;Python.quiz_brain.executor&quot;: &quot;Run&quot;,
-    &quot;Python.score_board.executor&quot;: &quot;Run&quot;,
-    &quot;Python.scoreboard.executor&quot;: &quot;Run&quot;,
-    &quot;Python.snake.executor&quot;: &quot;Run&quot;,
-    &quot;Python.snake1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;V:/Extra lessons(programming)/Python/python-bootcamp/Projects/day_20_and_21_snake_game/snake.py&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;two.files.diff.last.used.file&quot;: &quot;V:/Extra lessons(programming)/Python/python-bootcamp/Projects/day_20_and_21_snake_game/snake.py&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.ball.executor": "Run",
+    "Python.challenge_1.executor": "Run",
+    "Python.challenge_2.executor": "Run",
+    "Python.challenge_3.executor": "Run",
+    "Python.challenge_4.executor": "Run",
+    "Python.challenge_5.executor": "Run",
+    "Python.food.executor": "Run",
+    "Python.lesson_16_1.executor": "Run",
+    "Python.main (1).executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.main2.executor": "Run",
+    "Python.player.executor": "Run",
+    "Python.question_model.executor": "Run",
+    "Python.quiz_brain.executor": "Run",
+    "Python.score_board.executor": "Run",
+    "Python.scoreboard.executor": "Run",
+    "Python.snake.executor": "Run",
+    "Python.snake1.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "V:/Extra lessons(programming)/Python/python-bootcamp/Projects/day_20_and_21_snake_game/snake.py",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "two.files.diff.last.used.file": "V:/Extra lessons(programming)/Python/python-bootcamp/Projects/day_20_and_21_snake_game/snake.py"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="V:\Extra lessons(programming)\Python\python-bootcamp\Lessons\Lesson_024" />
@@ -71,35 +78,6 @@
       <recent name="V:\Extra lessons(programming)\Python\python-bootcamp\Projects\day_18_the_hirst_painting" />
       <recent name="V:\Extra lessons(programming)\Python\python-bootcamp\Projects\day_17_quiz" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-bootcamp" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Projects/day_23_turtle_crossing" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Projects/day_23_turtle_crossing/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -131,6 +109,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
