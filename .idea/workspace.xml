@@ -5,15 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="092456bf-d772-4530-b201-7b43d4df19c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lessons/Lesson_025/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/Lesson_025/new_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/Lesson_025/squirrel_count.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/Lesson_025/squirrel_count_short.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/Lesson_025/weather_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/day_25_us_states_game/50_states.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/day_25_us_states_game/blank_states_img.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/day_25_us_states_game/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_exercises/day_026/ex_28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_exercises/day_026/ex_29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_exercises/day_026/ex_30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_exercises/day_026/ex_31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_exercises/day_026/ex_32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_exercises/day_026/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_exercises/day_026/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/Lesson_026/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/day_26_nato_phonetic_alphabet/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/day_25_us_states_game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/day_25_us_states_game/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +51,11 @@
     "Python.challenge_3.executor": "Run",
     "Python.challenge_4.executor": "Run",
     "Python.challenge_5.executor": "Run",
+    "Python.ex_28.executor": "Run",
+    "Python.ex_29.executor": "Run",
+    "Python.ex_30.executor": "Run",
+    "Python.ex_31.executor": "Run",
+    "Python.ex_32.executor": "Run",
     "Python.food.executor": "Run",
     "Python.lesson_16_1.executor": "Run",
     "Python.main (1).executor": "Run",
