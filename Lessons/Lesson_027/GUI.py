@@ -1,5 +1,6 @@
 from tkinter import *
 
+
 def button_clicked():
     print("I got clicked")
     new_text = user_input.get()
@@ -29,8 +30,6 @@ button_2.grid(column=2, row=0)
 user_input = Entry(width=10)
 user_input.grid(column=3, row=3)
 
-
-=======
 import tkinter
 
 window = tkinter.Tk()
