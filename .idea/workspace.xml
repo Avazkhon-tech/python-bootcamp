@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="092456bf-d772-4530-b201-7b43d4df19c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lessons/Lesson_027/GUI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/Lesson_027/functions_with_args_and_kwargs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/Lesson_027/playground.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/Lesson_027/tkinter_widgets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/day_27_miles_to_km/gui.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/Lesson_027/GUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson_027/GUI.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,17 +53,20 @@
     "Python.ex_31.executor": "Run",
     "Python.ex_32.executor": "Run",
     "Python.food.executor": "Run",
+    "Python.gui.executor": "Run",
     "Python.lesson_16_1.executor": "Run",
     "Python.main (1).executor": "Run",
     "Python.main.executor": "Run",
     "Python.main2.executor": "Run",
     "Python.player.executor": "Run",
+    "Python.playground.executor": "Run",
     "Python.question_model.executor": "Run",
     "Python.quiz_brain.executor": "Run",
     "Python.score_board.executor": "Run",
     "Python.scoreboard.executor": "Run",
     "Python.snake.executor": "Run",
     "Python.snake1.executor": "Run",
+    "Python.tkinter_widgets.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
