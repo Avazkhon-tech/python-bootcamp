@@ -1,6 +1,5 @@
 from tkinter import *
 
-
 def button_clicked():
     print("I got clicked")
     new_text = user_input.get()
@@ -30,6 +29,17 @@ button_2.grid(column=2, row=0)
 user_input = Entry(width=10)
 user_input.grid(column=3, row=3)
 
+
+=======
+import tkinter
+
+window = tkinter.Tk()
+window.title("my first GUI Program")
+window.minsize(width=500, height=300)
+
+#Label
+my_label = tkinter.Label(text="I am a Label", font=("Arial", 24, "bold"))
+my_label.pack(side="left")
 
 
 
