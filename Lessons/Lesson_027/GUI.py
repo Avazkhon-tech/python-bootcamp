@@ -30,7 +30,6 @@ button_2.grid(column=2, row=0)
 user_input = Entry(width=10)
 user_input.grid(column=3, row=3)
 
-import tkinter
 
 window = tkinter.Tk()
 window.title("my first GUI Program")
