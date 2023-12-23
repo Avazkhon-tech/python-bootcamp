@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="092456bf-d772-4530-b201-7b43d4df19c5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/day_24_snake_game_improved/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/day_24_snake_game_improved/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/day_24_snake_game_improved/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/day_24_snake_game_improved/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/day_3_treasure_hunter/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/day_3_treasure_hunter/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +50,7 @@
     &quot;Python.ex_31.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex_32.executor&quot;: &quot;Run&quot;,
     &quot;Python.food.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gui.executor&quot;: &quot;Run&quot;,
     &quot;Python.lesson_16_1.executor&quot;: &quot;Run&quot;,
     &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
@@ -79,7 +83,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-67fca87a943a-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.11799.259" />
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
       </set>
     </attachedChunks>
   </component>
