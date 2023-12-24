@@ -1,6 +1,7 @@
 from tkinter import Canvas, Entry, Tk, Label, Button, PhotoImage, messagebox
 from random import randint, shuffle, choice
 import pyperclip
+import json
 
 
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
@@ -25,19 +26,29 @@ def save():
     website_entry_input = website_entry.get()
     username_entry_input = username_entry.get()
     password_entry_input = password_entry.get()
-
-    if len(website_entry_input) != 0 or len(username_entry_input) != 0 or len(password_entry_input) != 0:
-        is_ok = messagebox.askokcancel(title=website_entry_input, message=f"These are the details entered: \n"
-                                                                          f"Username: {username_entry_input}\n"
-                                                                          f"Password: {password_entry_input}")
-        if is_ok:
-            with open("data.txt", 'a') as file:
-                file.write(f"{website_entry_input} | {username_entry_input} | {password_entry_input} \n")
-            website_entry.delete(0, 'end')
-            username_entry.delete(0, 'end')
-            password_entry.delete(0, 'end')
-    else:
+    new_data = {
+        website_entry_input: {
+            'email': username_entry_input,
+            'password': password_entry_input,
+        }
+    }
+    if len(website_entry_input) == 0 or len(username_entry_input) == 0 or len(password_entry_input) == 0:
         messagebox.showinfo(title="Warning", message="Please make sure you have not left any of the spaces empty.")
+    else:
+        try:
+            with open('data.json', 'r') as file:
+                data = json.load(file)
+        except FileNotFoundError:
+            with open("data.json", 'w') as file:
+                file.dump(new_data, file, indent=4)
+        else:
+            data.update(new_data)
+            with open('data.json', 'w') as file:
+                json.dump(new_data, file, indent=4)
+
+        website_entry.delete(0, 'end')
+        username_entry.delete(0, 'end')
+        password_entry.delete(0, 'end')
 
 # ---------------------------- UI SETUP -------------------------------
 
