@@ -24,14 +24,14 @@ def start_count():
     global ticks
     reps += 1
     if reps % 2 == 0 and reps % 8 != 0:
-        count_down(1)
+        count_down(SHORT_BREAK_MIN*60)
         label_timer.config(text="Break", fg=PINK)
     elif reps != 0 and reps % 8 == 0:
-        count_down(2)
+        count_down(LONG_BREAK_MIN*60)
         label_timer.config(text="Break", fg=RED)
     else:
         label_timer.config(text="Work", fg=GREEN)
-        count_down(4)
+        count_down(WORK_MIN*60)
     if reps % 2 == 0:
         ticks += '✔'
         label_tick.config(text=ticks)
