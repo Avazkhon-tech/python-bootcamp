@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="092456bf-d772-4530-b201-7b43d4df19c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Projects/day_29_password_manager/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/day_29_password_manager/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/day_29_password_manager/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/day_29_password_manager/temp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_exercises/day_030/ex_33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_exercises/day_030/ex_34.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/Lesson_030/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/day_28_pomodoro_app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/day_28_pomodoro_app/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/day_5_password_generator/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/day_5_password_generator/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
