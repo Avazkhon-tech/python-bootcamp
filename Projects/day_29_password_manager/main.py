@@ -40,15 +40,32 @@ def save():
                 data = json.load(file)
         except FileNotFoundError:
             with open("data.json", 'w') as file:
-                file.dump(new_data, file, indent=4)
+                json.dump(new_data, file, indent=4)
+        except json.decoder.JSONDecodeError:
+            with open("data.json", 'w') as file:
+                json.dump(new_data, file, indent=4)
         else:
             data.update(new_data)
             with open('data.json', 'w') as file:
-                json.dump(new_data, file, indent=4)
+                json.dump(data, file, indent=4)
+        finally:
+            website_entry.delete(0, 'end')
+            username_entry.delete(0, 'end')
+            password_entry.delete(0, 'end')
 
-        website_entry.delete(0, 'end')
-        username_entry.delete(0, 'end')
-        password_entry.delete(0, 'end')
+# ---------------------------- LOOK FOR PASSWORD ------------------------------- #
+def find_password():
+    try:
+        website = website_entry.get()
+        with open("data.json", 'r') as file:
+            data = json.load(file)
+        code = (data[website]['password'])
+        email = (data[website]['email'])
+        messagebox.showinfo(title=website, message=f'Email/Username: {email}\n'
+                                                   f'Password: {code}')
+    except KeyError:
+        messagebox.showinfo(title=website, message=f'no info has been found for this website')
+
 
 # ---------------------------- UI SETUP -------------------------------
 
@@ -73,8 +90,8 @@ password_label = Label(text="Password: ")
 password_label.grid(row=3, column=0)
 
 # entries
-website_entry = Entry(width=53)
-website_entry.grid(row=1, column=1, columnspan=2)
+website_entry = Entry(width=35)
+website_entry.grid(row=1, column=1)
 website_entry_info = website_entry.get()
 
 
@@ -90,5 +107,9 @@ generate_button.grid(row=3, column=2)
 
 add_button = Button(text='Add', width=45, command=save)
 add_button.grid(row=4, column=1, columnspan=2)
+
+search_button = Button(text="Search", width=14, command=find_password)
+search_button.grid(row=1, column=2)
+
 
 window.mainloop()
