@@ -63,6 +63,8 @@ def find_password():
         email = (data[website]['email'])
         messagebox.showinfo(title=website, message=f'Email/Username: {email}\n'
                                                    f'Password: {code}')
+    except FileNotFoundError:
+        messagebox.showinfo(title='warning', message='no data file found.')
     except KeyError:
         messagebox.showinfo(title=website, message=f'no info has been found for this website')
 
