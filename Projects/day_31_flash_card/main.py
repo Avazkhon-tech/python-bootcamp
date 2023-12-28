@@ -18,7 +18,7 @@ img_wrong = PhotoImage(file="images/wrong.png")
 img_right = PhotoImage(file="images/right.png")
 canvas_wrong.create_image(50, 50, image=img_wrong)
 canvas_wrong.create_image(50, 50, image=img_right)
-canvas_wrong.grid(row=1, column=0)
+canvas_wrong.grid(row=1, column=1)
 
 
 

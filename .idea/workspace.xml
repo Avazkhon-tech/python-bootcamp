@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="092456bf-d772-4530-b201-7b43d4df19c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Projects/day_31_flash_card/data/french_words.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/day_31_flash_card/images/card_back.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/day_31_flash_card/images/card_front.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/day_31_flash_card/images/right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/day_31_flash_card/images/wrong.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/day_31_flash_card/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="092456bf-d772-4530-b201-7b43d4df19c5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
