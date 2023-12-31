@@ -56,6 +56,7 @@ import pandas
 # data.to_csv("new_data.csv")
 
 data = pandas.read_csv("squirrel_count.csv")
+print(data)
 fur_colors = data["Primary Fur Color"]
 grey_squirrels = len(data[fur_colors == "Gray"])
 red_squirrels = len(data[fur_colors == "Cinnamon"])
