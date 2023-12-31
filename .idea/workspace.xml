@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="092456bf-d772-4530-b201-7b43d4df19c5" name="Changes" comment="" />
+    <list default="true" id="092456bf-d772-4530-b201-7b43d4df19c5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Projects/day_31_flash_card/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/day_31_flash_card/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
