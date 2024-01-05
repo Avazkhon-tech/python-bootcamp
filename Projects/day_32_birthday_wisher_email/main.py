@@ -12,8 +12,8 @@ month_now = now.month
 data = pandas.read_csv('birthdays.csv')
 no_of_people = len(data)
 
-my_email = "a69707776@gmail.com"
-password = "ahll idge dpwo uqhg"
+my_email = "email address to send from"
+password = "code generated in the app for this code"
 
 for i in range(no_of_people):
     email = data.loc[i]['email']
@@ -25,10 +25,12 @@ for i in range(no_of_people):
         with open(f'letter_templates/{letter}', 'r') as file:
             wish = file.read()
             wish = wish.replace('[NAME]', name)
+            print(email)
 
         with smtplib.SMTP('smtp.gmail.com') as connection:
             connection.starttls()
             connection.login(my_email, password)
+
             connection.sendmail(from_addr=my_email,
                                 to_addrs=email,
                                 msg=f"Subject: Happy Birthday\n\n"
