@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+  }
+
+  .grid{
+    display: grid;
+  }
+
+  .div_picture{
+    border: 5px solid white;
+    width:700px;
+    height: 380px;
+    margin: auto;
+    margin-top: 55px;
+  }
+  .text_1 {
+    color: white;
+    margin: auto;
+  }
+  
+  .text_1_h{
+    font-family:'Libre Baskerville', serif;
+    font-size: 50px;
+    margin-bottom: 10PX;
+  }
+
+  .div_3 {
+    color: white;
+    margin: auto;
+  }
