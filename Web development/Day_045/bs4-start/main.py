@@ -50,42 +50,6 @@ print(article_texts[max_num_index])
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # with open("website.html", encoding="utf8") as file:
 #     contents = file.read()
 #
