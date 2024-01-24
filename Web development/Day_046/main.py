@@ -13,7 +13,7 @@ import requests
 CLIENT_ID = "bd37f38b08dd4b50885eaf6a849f3447"
 CLIENT_SECRET = "7411b810bf2a4028b5c8ba87cc399e84"
 import spotipy
-from spotipy.oauth2 import SpotifyOAuth
+from spotipy.oauth2 import SpotifyOAut
 
 sp = spotipy.Spotify(
     auth_manager=SpotifyOAuth(
